@@ -1,4 +1,4 @@
-package com.learn.jdbc;
+package learn.jdbc;
 
 import org.junit.Test;
 

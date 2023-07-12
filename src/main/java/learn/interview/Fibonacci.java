@@ -1,4 +1,4 @@
-package com.learn.interview;
+package learn.interview;
 
 /**
  * Created by Spring on 2016/7/22.
